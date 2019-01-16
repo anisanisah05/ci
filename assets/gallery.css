@@ -1,0 +1,14 @@
+body{
+  background-image: url(bi.jpg);
+}
+.box{
+width: 1000px;
+height: 2000px;
+background-color: #433D2F;
+background: rgba(0, 0, 0, 0.7);
+padding: 100px;
+text-align: center;
+margin: auto;
+color: white;
+font-family: 'Century Gothic',sans-serif;
+}
